@@ -1,7 +1,22 @@
 aid: xtract
 name: Xtract
-description: 'Xtract is a company surfaced as a portfolio company of creandum and added to the API Evangelist
-  network as a stub for enrichment. Sector: saas. This profile is a lead awaiting the enrichment pipeline.'
+description: 'Xtract was a social-intelligence analytics company (xtract.fi / xtract.com) that refined
+  social interaction, behaviour, and demographic data from telecom operators into detailed subscriber
+  profiles through its Social Links platform, powering churn prevention, product marketing, customer
+  acquisition, and demographics prediction. A Creandum portfolio company now listed as exited; its
+  websites are offline and no public API surface exists.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://images.ctfassets.net/vx9l0f5sup17/zDqOptEBOkWf2N7FZofhA/833c50139e9aa65dc91f81a2aa4f9317/Xtract.svg
 url: https://raw.githubusercontent.com/api-evangelist/xtract/refs/heads/main/apis.yml
 x-type: company
 x-source: vc-portfolio
@@ -9,15 +24,34 @@ x-backed-by:
 - creandum
 x-tier: stub
 x-tier-reason: portfolio-lead
+x-status: defunct
+x-status-evidence:
+- Listed under Exited on https://creandum.com/commitments/ ("Provider of social analytic solutions")
+- xtract.com and xtract.fi no longer resolve (connection failed, probed 2026-07-21)
+- Historical site archived at https://web.archive.org/web/20100916075635/http://www.xtract.fi/
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
 - Saas
+- Analytics
+- Social Intelligence
+- Telecom
+- Churn Prevention
+- Customer Analytics
 apis: []
+common:
+- name: Xtract LLMs.txt
+  type: LLMsTxt
+  url: llms/xtract-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-21'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1

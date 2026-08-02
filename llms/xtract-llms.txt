@@ -1,0 +1,14 @@
+# Xtract
+
+> Xtract was a social-intelligence analytics company that refined social interaction, behaviour, and demographic data from telecom operators into detailed subscriber profiles through its Social Links platform — powering churn prevention, product marketing, customer acquisition, and demographics prediction. A Creandum portfolio company now listed as exited; its websites (xtract.fi, xtract.com) are offline and it publishes no APIs, documentation, or developer resources.
+
+Generated 2026-07-21 by the API Evangelist enrichment pipeline (method: generated) from apis.yml and verified public sources. This company is defunct: no live API surface was found.
+
+## Company
+
+- [Creandum portfolio (Exited)](https://creandum.com/commitments/): Creandum lists Xtract as an exited investment — "Provider of social analytic solutions"
+- [Archived homepage, 2010](https://web.archive.org/web/20100916075635/http://www.xtract.fi/): "Xtract refines social interaction, behaviour and demographic data to create accurate 3D user profiles"
+
+## Specs
+
+- [APIs.json profile](https://raw.githubusercontent.com/api-evangelist/xtract/refs/heads/main/apis.yml): API Evangelist network profile for Xtract (no APIs — defunct company)
