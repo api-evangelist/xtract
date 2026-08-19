@@ -29,7 +29,7 @@ x-status-evidence:
 - Listed under Exited on https://creandum.com/commitments/ ("Provider of social analytic solutions")
 - xtract.com and xtract.fi no longer resolve (connection failed, probed 2026-07-21)
 - Historical site archived at https://web.archive.org/web/20100916075635/http://www.xtract.fi/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-21'
 tags:
