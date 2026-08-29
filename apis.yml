@@ -5,6 +5,17 @@ description: 'Xtract was a social-intelligence analytics company (xtract.fi / xt
   profiles through its Social Links platform, powering churn prevention, product marketing, customer
   acquisition, and demographics prediction. A Creandum portfolio company now listed as exited; its
   websites are offline and no public API surface exists.'
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
