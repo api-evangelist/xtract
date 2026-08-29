@@ -29,6 +29,9 @@ accessModel:
   method: derived
 image: https://images.ctfassets.net/vx9l0f5sup17/zDqOptEBOkWf2N7FZofhA/833c50139e9aa65dc91f81a2aa4f9317/Xtract.svg
 url: https://raw.githubusercontent.com/api-evangelist/xtract/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "A Creandum portfolio company now listed as exited; its websites are offline and no public API surface exists."
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
